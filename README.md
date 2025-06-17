@@ -5,9 +5,9 @@ A console-based Minesweeper game implemented in Java 17, using clean code princi
 ## Features
 - Command-line grid-based game.
 - Random mine placement up to 35%.
-- Auto-revealing of adjacent blank squares.
+- Auto-displaying of adjacent blank tiles.
 - Win/loss detection.
-- Input validation and parser.
+- User Input validation and parser.
 
 ## Technologies
 - Java 17
